@@ -1,5 +1,3 @@
-Here is the professional English version of the README based on your code and the flowchart.
-
 -----
 
 # Multi-modal Fusion Framework for Head and Neck Cancer Prognosis
